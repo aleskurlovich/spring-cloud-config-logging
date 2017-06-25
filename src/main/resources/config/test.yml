@@ -1,5 +1,5 @@
 logging:
   level:
-    com.test:
-      com.test.sub1: DEBUG
-      com.test.sub2: DEBUG
+    root.package:
+      commonsubpackage.package1: DEBUG
+      commonsubpackage.package2: DEBUG
